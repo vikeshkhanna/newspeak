@@ -1,5 +1,6 @@
 1ce once
 2 too/two
+4 for
 accptd accepted
 aftr after
 abt about
@@ -76,6 +77,7 @@ obv obvious
 picha picture
 piccha picture
 ppl people
+prob problem
 plz please
 reasns reasons
 reasn reason
@@ -94,9 +96,12 @@ thanku thank-you
 u you
 ur your
 v we/very
+wid with
+wud would
 wt what
 wnt want/won't
 wts what's
 xprncd experienced
+y why
 z is
 
